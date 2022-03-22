@@ -1,2 +1,2 @@
 # SpringActuator
-Spring Actuator examples
+[Spring Actuator examples](https://tedblob.com/category/spring/actuator/)
